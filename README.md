@@ -9,7 +9,9 @@ I am an intermediate developer, graphic designer working for the past few years.
 - 💻 {( Currently, i am a student at [UETR (University of Engineering and Technology Roorkee)](https://www.uetr.ac.in/)-Roorkee, Uttarakhand , India.
 - 🧑‍ {( I have always had the ability to look at things from a different perspective and try to find something new in them. I hope that with every new day, I get more than one chance to learn everything, which will make me very happy. New technologies have always been an inspiration to learn and at the same time get an opportunity to learn something from them. )}
 - 👨🏽‍💻 {( Currently growing my skillset in [Different Programming Language] [Machine Learning] and [Data Science]}
-<img align="right" alt="Coding" width="400" src="https://wallpaper.dog/large/20498264.jpg">
+
+
+
 - 🌱 I’m currently in love with <b> someone or you can say Deep_Learning</b>
 - 🔭 Simultaneously exploring <b>Web3</b>
 - 💬 Ask me about *Web Development* 
@@ -23,7 +25,7 @@ technologies to meet future requirements.</br>
 
  ### `I am open to`<img  alt="Coding" width="50" src="https://user-images.githubusercontent.com/71630336/167283483-1b2b2630-f02a-487b-823a-839d3739452a.gif">:
 
-
+<img align="right" alt="Coding" width="400" src="https://wallpaper.dog/large/20498264.jpg">
 - any collobration work.
 - machine learning projects(development or research),
 - do research and  internships.
