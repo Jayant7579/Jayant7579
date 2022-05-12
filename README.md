@@ -20,12 +20,13 @@ I am an intermediate developer, graphic designer working for the past few years.
 - ⚡ Fun fact:   *zindagi mei dukh hi dukh hain*
 - ❤️ want to be the part of a  community which makes a great impact by training new generations on cutting edge \
 technologies to meet future requirements.</br>
+<img align="right" alt="Coding" width="400" src="https://wallpapercave.com/wp/wp5331507.jpg">
 
 
 
  ### `I am open to`<img  alt="Coding" width="50" src="https://user-images.githubusercontent.com/71630336/167283483-1b2b2630-f02a-487b-823a-839d3739452a.gif">:
 
-<img align="right" alt="Coding" width="400" src="https://wallpaper.dog/large/20498264.jpg">
+
 - any collobration work.
 - machine learning projects(development or research),
 - do research and  internships.
