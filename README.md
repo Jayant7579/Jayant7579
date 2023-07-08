@@ -3,10 +3,10 @@
 
 ### Hi there, I'm [jayant chauhan](https://www.linkedin.com/in/jayant-chauhan-282358227/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
-I am an intermediate developer, graphic designer working for the past few years. I am always enthusiastic about new projects for which I use my skills to provide an elegant solution for any project. My motive is to create a successful, helpful & unique solutions of any project.
+I am a web developer, graphic designer working for the past few years. I am always enthusiastic about new projects for which I use my skills to provide an elegant solution for any project. My motive is to create a successful, helpful & unique solutions of any project.
 
 
-- 💻 {( I am a student at [UETR (University of Engineering and Technology Roorkee)](https://www.uetr.ac.in/)-Roorkee, Uttarakhand , India.
+- 💻 {( I am a student at [COER University])-Roorkee, Uttarakhand , India.
 - 🧑‍ {( I have always had the ability to look at things from a different perspective and try to find something new in them. I hope that with every new day, I get more than one chance to learn everything, which will make me very happy. New technologies have always been an inspiration to learn and at the same time get an opportunity to learn something from them. )}
 - 👨🏽‍💻 {( Trying to grow up my skillset in [Different Programming Language] [Machine Learning] and [Data Science]}
 
